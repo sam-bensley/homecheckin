@@ -62,4 +62,4 @@ def getHome(name):
     else:
         return "Dunno"
     
-app.run(host= '0.0.0.0')
+app.run()
